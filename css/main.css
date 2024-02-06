@@ -228,6 +228,10 @@ form button{
         margin: 0px;
     }
 
+    .produto{
+        margin-bottom: 100px;
+    }
+
     .produtos p{
         font-size: 1em;
         color: var(--textos);
