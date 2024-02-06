@@ -264,7 +264,14 @@ form button{
         background-color: var(--bgdestaque);
         color: var(--corpo);
         font-weight: bold;
-        border: none;   
+        border: none;
+    }
+
+    #contato{
+        text-align: center;
+    }
+    #contato h2{
+        text-align: left;
     }
 
     footer .container{
